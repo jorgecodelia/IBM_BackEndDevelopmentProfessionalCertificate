@@ -1,0 +1,10 @@
+Testing vim in terminal
+------------------------
+
+1.Type vim in the console
+2.Type i to enter to the insert mode
+3.Type anithing you want
+4.Press ESC to exit insert mode
+5.Save and exit with :sav filename.txt OR type :w
+6.Exit type :q 
+7.Exit without saving type :q!
